@@ -1,0 +1,1 @@
+CREATE DATABASE `products_api` /*!40100 COLLATE 'latin1_swedish_ci' */
