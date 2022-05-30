@@ -15,4 +15,4 @@ $auth_token = (
 if($auth_token !== $_ENV['secret_token']) {
     echo 'invalid token!';
     exit;
-} 
+}
