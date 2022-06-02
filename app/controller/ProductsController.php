@@ -1,5 +1,6 @@
 <?php
 
+include_once '../includes/cors.php';
 include_once '../includes/functions.php';
 include_once '../includes/methods.php';
 include_once '../includes/autenticate.php';
